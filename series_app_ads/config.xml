@@ -1,11 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.realdealagency.diet" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>لو نفسك تخس</name>
+    <name>جيم مصر</name>
     <description>
-لو نفسك تخس
+    جيم مصر
     </description>
     <author email="dev@cordova.apache.org" href="http://cordova.io">
-لو نفسك تخس
+    جيم مصر
+
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
